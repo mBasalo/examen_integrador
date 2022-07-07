@@ -2,3 +2,4 @@
 examen intro
 Mauricio Basalo
 Valeria Montanez
+Natalia Araujo
